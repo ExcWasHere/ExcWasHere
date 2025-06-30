@@ -1,6 +1,6 @@
 <div align="center">
-![Banner](banner1.png)
-![Itachi Gifs](itachi.gif)
+![Banner](banner2.png)
+![ItachiGifs](itachii.gif)
 
 
 ## 🌐 Socials:
