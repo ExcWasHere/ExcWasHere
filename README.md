@@ -1,5 +1,5 @@
-# 💫 About Me:
-<div align="center"><br><br>![Banner](banner1.png)<br><br>![Itachi Gifs](itachi.gif)<br>
+<div align="center">
+<br>![Banner](banner1.png)<br><br>![Itachi Gifs](itachi.gif)<br>
 
 
 ## 🌐 Socials:
